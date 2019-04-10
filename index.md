@@ -3,8 +3,9 @@
 ### Save the date!
 * Research Software Reactor 3 day sprint:
  * 26 April - deadline for sprint proposals (see below for details).
- * 20-21 May 2019 at [Imperial College London](https://www.imperial.ac.uk).
+ * 20-21 May 2019 at [Royal School of Mines, Imperial College London](https://www.imperial.ac.uk/earth-science/about/getting-here/).
  * 22 May 2019 [Microsoft Reactor, Shoreditch](https://developer.microsoft.com/en-us/reactor/).
+ * [Suggested accommodation](http://www.imperial.ac.uk/visitors-accommodation/local-hotels/).
  * More details coming soon.
 
 #### Background
