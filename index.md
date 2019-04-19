@@ -6,6 +6,8 @@
  * 20-21 May 2019 at [Royal School of Mines, Imperial College London](https://www.imperial.ac.uk/earth-science/about/getting-here/).
  * 22 May 2019 [Microsoft Reactor, Shoreditch](https://developer.microsoft.com/en-us/reactor/).
  * [Suggested accommodation](http://www.imperial.ac.uk/visitors-accommodation/local-hotels/).
+ * [Mailing list](https://mailman.ic.ac.uk/mailman/listinfo/research-software-reactor)
+ * Slack: see #cloudcomputing under ukrse.slack.com - join via [https://rse.ac.uk/](https://rse.ac.uk/)
  * More details coming soon.
 
 #### Background
@@ -27,7 +29,7 @@ The advantage to this problem-based-learning approach is that it provides motiva
 *	RSE/RCA need to be able to help researchers deliver those results, as quickly and cost effectively, appropriately as possible.
 
 #### Get engaged
-The Research Software Reactor Sprint is being planned to appeal to RSEs from the broadest range of backgrounds. The first two days of the sprint will be held at Imperial College London and the third day and launch will be held in the Reactor London. A [github repo](https://github.com/research-software-reactor/poc-storm) has been set up to collect a wide range of proposals for case study that will be used in the sprint. We are reaching out to community for proposals and volunteers to review and identify appropriate range of workflows/research compute needs, reach the ‘long tail’ of research and representation across region. More generally these blueprints should sit within general framework delivering:
+The Research Software Reactor Sprint is being planned to appeal to RSEs from the broadest range of backgrounds. The first two days of the sprint will be held at Imperial College London and the third day and launch will be held in the Reactor London. A [github repo](https://github.com/research-software-reactor/guidelines) has been set up to collect a wide range of proposals for case study that will be used in the sprint. We are reaching out to community for proposals and volunteers to review and identify appropriate range of workflows/research compute needs, reach the ‘long tail’ of research and representation across region. More generally these blueprints should sit within general framework delivering:
 *	Security (data)
 *	Authentication
 *	Costing
