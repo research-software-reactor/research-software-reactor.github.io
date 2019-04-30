@@ -44,4 +44,4 @@ Adopt and adapt where possible, reuse, do not reinvent the wheel. Some examples:
 *	https://github.com/Azure/DistributedDeepLearning/tree/master
 *	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/batch-scoring-deep-learning
 
-Material developed at the Research Software Reactor will be reused and extended and extended at future events such as the German RSE conference in June.
+Material developed at the Research Software Reactor will be reused and extended at future events such as the German RSE conference in June.
