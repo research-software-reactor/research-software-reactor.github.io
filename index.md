@@ -8,7 +8,7 @@
  * [Suggested accommodation](http://www.imperial.ac.uk/visitors-accommodation/local-hotels/).
  * [Mailing list](https://mailman.ic.ac.uk/mailman/listinfo/research-software-reactor)
  * Slack: see #cloudcomputing under ukrse.slack.com - join via [https://rse.ac.uk/](https://rse.ac.uk/)
- * More details coming soon.
+ * [Register here!](https://www.microsoftevents.com/profile/6927743)
 
 #### Background
 As part of the Microsoft EMEA Higher Education Summit meeting in Brussels in March 2019, members of the *Research Software Engineering (RSE)* community across EMEA held a round table discussion with Microsoft to explore ways of making Cloud more research friendly. While a diverse range of opportunities and barriers were touched upon, the key issue that dominated discussion was **skills and training** in the context of both RSE's and the communities they support. Microsoft has created a vast repository of training material (on GitHub) and many learning pathways through that material. However, few of these have been created with the academic research community in mind.
