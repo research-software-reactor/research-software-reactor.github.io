@@ -1,4 +1,4 @@
-# Agenda - 1$^st$ Research Software Reactor sprint, 20-22 May 2019
+# Agenda - 1st Research Software Reactor sprint, 20-22 May 2019
 
 ## Locations
 
