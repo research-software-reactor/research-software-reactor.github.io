@@ -27,5 +27,7 @@ series of sprint/hackathon style events that focus on a specific theme or proof-
   - Provide bases for developing cost model for budgeting.
 * Troubleshoot issues experienced by research community using Cloud.
 
+---
+
 Please get in touch if you would like to host an event at your local
 institution and/or to propose a POC for the Research Software Reactor.
