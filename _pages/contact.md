@@ -2,7 +2,7 @@
 title: Contact us
 subtitle: Research Software Reactor
 description: Fill submit this form to contact the Research Software Reactor.
-featured_image: /images/raining_binary.jpg
+featured_image: /images/side.svg
 ---
 
 {% include contact-form.html %}

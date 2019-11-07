@@ -18,7 +18,6 @@ menu_settings:
       url: "/about"
     - title: "Contact"
       url: "/contact"
-
 grid_settings:
   grid_spacing: 10
 
@@ -159,3 +158,5 @@ advanced_settings:
   custom_styles: ""
   header_js: ""
   footer_js: ""
+
+side_image: /images/side.svg
