@@ -18,6 +18,8 @@ menu_settings:
       url: "/about"
     - title: "Contact"
       url: "/contact"
+    - title: "Code of Conduct"
+      url: "/coc"
 grid_settings:
   grid_spacing: 10
 
@@ -57,10 +59,10 @@ social_settings:
 
 color_settings:
   background_color: "#ffffff"
-  background_alt_color: "#F5F7FA"
+  background_alt_color: "#fff"
   text_dark_color: "#2A2F36"
-  text_medium_color: "#6C7A89"
-  text_light_color: "#ABB7B7"
+  text_medium_color: "#202223"
+  text_light_color: "#62666b"
   accent_color: "#22a6b3"
   border_color: "#dddddd"
   overlay_background_color: "#161B21"
@@ -98,14 +100,14 @@ font_settings:
     large_size: 45
     weight: 400
     letter_spacing: -0.02
-    line_height: 1.2
+    line_height: 1.4
   h2:
     small_size: 25
     medium_size: 35
     large_size: 45
     weight: 400
     letter_spacing: -0.02
-    line_height: 1.2
+    line_height: 1.4
   h3:
     small_size: 22
     medium_size: 25
