@@ -2,7 +2,7 @@
 title: About Research Software Reactor
 subtitle: Supporting the community to create better research software and solutions
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/raining_binary.jpg
+featured_image: /images/side.svg
 ---
 
 ![](/images/what_we_do.jpg)
