@@ -5,7 +5,7 @@ description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/side.svg
 ---
 
-![](/images/what_we_do.jpg)
+<img src="/images/pages/computers.jpg" width="80%" alt="About the reactor"/>
 
 As part of the Microsoft EMEA Higher Education Summit meeting in Brussels in
 March 2019, members of the *Research Software Engineering (RSE)* community
@@ -40,7 +40,7 @@ projects within research software computing with the following objectives:
 ## Code of conduct
 
 Finally all the activities: online and in person are directed by The Research Software Reactor 
-Code of Conduct that can be found [on this site]({{site.baseurl}}/coc)
+Code of Conduct that can be found [on this site]({{site.baseurl}}/coc).
 
 ---
 

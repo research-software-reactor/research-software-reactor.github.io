@@ -1,6 +1,6 @@
 ---
 title: Contact us
-subtitle: Research Software Reactor
+subtitle: Get in touch!
 description: Fill submit this form to contact the Research Software Reactor.
 featured_image: /images/side.svg
 ---

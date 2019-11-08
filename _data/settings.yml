@@ -20,6 +20,8 @@ menu_settings:
       url: "/contact"
     - title: "Code of Conduct"
       url: "/coc"
+    - title: "Join the community"
+      url: "community"
 grid_settings:
   grid_spacing: 10
 
@@ -63,7 +65,7 @@ color_settings:
   text_dark_color: "#2A2F36"
   text_medium_color: "#202223"
   text_light_color: "#62666b"
-  accent_color: "#22a6b3"
+  accent_color: "#7fccc4"
   border_color: "#dddddd"
   overlay_background_color: "#161B21"
   overlay_text_color: "#ffffff"
