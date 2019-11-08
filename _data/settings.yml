@@ -20,6 +20,8 @@ menu_settings:
       url: "/contact"
     - title: "Code of Conduct"
       url: "/coc"
+    - title: "Join the community"
+      url: "community"
 grid_settings:
   grid_spacing: 10
 
