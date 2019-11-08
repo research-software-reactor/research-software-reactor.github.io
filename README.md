@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="./images/logos/rounded.png" width="200" />
+  <img alt="Logo" src="./images/logos/rounded.svg" width="200" />
 </div>
 <div align="center">
 	<h1>Research Software Reactor Website</h1>
