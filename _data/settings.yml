@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Research Software Reactor
-  site_tagline: Supporting researchers, research software enginers, and technical specialists in the application of cloud computing for the research community.
+  site_tagline: Supporting researchers, research software engineers, and technical specialists in the application of cloud computing for the research community.
   favicon_image: /images/favicon.ico
 
 header_settings:

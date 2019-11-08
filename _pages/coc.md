@@ -5,7 +5,7 @@ featured_image: /images/side.svg
 
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
-Accordingly, everyone who participates in the The Research Software rRactor is expected to show respect and courtesy to other community members at all times.
+Accordingly, everyone who participates in the The Research Software Reactor is expected to show respect and courtesy to other community members at all times.
 
 All project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
