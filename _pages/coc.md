@@ -5,7 +5,7 @@ featured_image: /images/side.svg
 
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
-Accordingly, everyone who participates in the The Research Software Reactor is expected to show respect and courtesy to other community members at all times.
+Accordingly, everyone who participates in The Research Software Reactor is expected to show respect and courtesy to other community members at all times.
 
 All project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
@@ -39,13 +39,13 @@ We value the involvement of everyone in the community.
 We are committed to creating a friendly and respectful place for learning, teaching and contributing.
 All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
 
-To make clear what is expected, everyone participating in activities associated with the The Research Software reactor is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the The Research Software reactor including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
+To make clear what is expected, everyone participating in activities associated with The Research Software reactor is required to conform to this Code of Conduct.
+This Code of Conduct applies to all spaces managed by The Research Software reactor including, but not limited to, in-person events and networking opportunities, and communications online via GitHub, email and Slack.
 
 The lead co-organiser Dr. Tania Allard is responsible for enforcing the Code of Conduct.
 She can be contacted by emailing [trallard@bitsandchips.me](mailto:trallard@bitsandchips.me).
 
-Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
+Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, **and will be kept confidential**.
 
 ## 2 Code of Conduct
 
@@ -53,9 +53,9 @@ The Research Software Reactor team are dedicated to providing a welcoming and su
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
 We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
-Everyone who participates in the The Research Software reactor activities is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the The Research Software reactor including, but not limited to, in person focus groups and workshops, and communications online via GitHub.
-By participating, contributors indicate their acceptance of the procedures by which the The Research Software reactor core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
+Everyone who participates in The Research Software reactor activities is required to conform to this Code of Conduct.
+This Code of Conduct applies to all spaces managed by The Research Software reactor including, but not limited to, in-person events and networking opportunities, and communications online via GitHub, email and Slack.
+By participating, contributors indicate their acceptance of the procedures by which The Research Software reactor core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.
 
 ### 2.1 Expected Behaviour
 
@@ -122,7 +122,7 @@ A detailed enforcement policy is available in the Enforcement Manual below.
 
 ## 4 Enforcement Manual
 
-This is the enforcement manual followed by the The Research Software reactor research team.
+This is the enforcement manual followed by The Research Software reactor research team.
 It's used when we respond to an issue to make sure we're consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
@@ -195,7 +195,7 @@ However, the CoC committee is not required to act on this feedback.
 
 ### 4.5 Conflicts of Interest
 
-In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
+In the event of any conflict of interest such that Dr Allard is not able to evaluate or enforce the reported violation, Adam Jackson will take Tania's place.
 
 ## 5. Acknowledgements
 
