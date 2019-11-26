@@ -39,3 +39,6 @@ To check all the settings and how to customise the theme check [settings.md](./s
 ## 📃 Licensing
 - The text is licensed using the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 - The code is licensed using the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause)
+
+## Code of Conduct
+All the contributors and attendees to the events must abide by our code of conduct which can be found 👉🏼 [here](https://research-software-reactor.github.io/coc)
