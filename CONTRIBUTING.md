@@ -177,7 +177,7 @@ Finally, don't forget to add yourself to the list of contributors [here](https:/
 
 ---
 
-_These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)_ and [the Turing Way project](https://github.com/alan-turing-institute/the-turing-way/CONTRIBUTING.md)
+_These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)!  and [the Turing Way project](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)(License: CC-BY)_
 
 
 [reactor-repo]: https://github.com/research-software-reactor/research-software-reactor.github.io
