@@ -5,27 +5,23 @@
 	<h1>Research Software Reactor Website</h1>
 </div>
 
-This repository contains the website for the Research Software Reactor built with Jekyll and powered by GitHub pages. 
-
-
-##  Running locally
-
-
-Make a clone of the repository.
-To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
-
----
+This repository contains the website for the Research Software Reactor which is built with Jekyll and powered by GitHub pages. 
 
 ## Jekyll basics
 
 If you're not familiar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), and [creating pages](https://jekyllrb.com/docs/pages/).
 
+##  Running locally
+
+Make a clone of the repository.
+To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
+
 ---
 
-## 🎨 Customizing the theme
+## 👩🏿‍🎨 Customizing the theme
 
-Index comes packed with lots of options to let you customize the theme.
+The Index theme  comes packed with lots of options to let you customize the theme.
 To check all the settings and how to customise the theme check [settings.md](./settings.md)
 
 ## 🎨 Color Reference
@@ -40,5 +36,6 @@ To check all the settings and how to customise the theme check [settings.md](./s
 - The text is licensed using the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 - The code is licensed using the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause)
 
-## Code of Conduct
-All the contributors and attendees to the events must abide by our code of conduct which can be found 👉🏼 [here](https://research-software-reactor.github.io/coc)
+## Contributing
+
+Everyone is asked to follow our [code of conduct](ttps://research-software-reactor.github.io/coc) and to checkout our [contributing guidelines](./CONTRIBUTING.md) for more information on how to get started.
